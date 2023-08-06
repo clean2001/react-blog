@@ -1,4 +1,4 @@
-import React, {ReactNode, useRef, useState} from "react";
+import React, { ReactNode, useRef, useState } from "react";
 import styles from "./header.module.css";
 
 export default function Header() {
